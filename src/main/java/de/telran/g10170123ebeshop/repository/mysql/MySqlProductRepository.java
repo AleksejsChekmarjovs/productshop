@@ -9,8 +9,8 @@ import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.util.List;
 
-import static de.telran.g10170123ebeshop.domain.database.MySqlConnector.getConnection;
 import static de.telran.g10170123ebeshop.constants.Constants.*;
+import static de.telran.g10170123ebeshop.domain.database.MySqlConnector.getConnection;
 
 public class MySqlProductRepository implements ProductRepository {
 
