@@ -2,11 +2,8 @@ package de.telran.g10170123ebeshop.config;
 
 import de.telran.g10170123ebeshop.domain.database.common.CommonDatabase;
 import de.telran.g10170123ebeshop.domain.database.interfaces.Database;
-import de.telran.g10170123ebeshop.repository.common.CommonCustomerRepository;
-import de.telran.g10170123ebeshop.repository.common.CommonProductRepository;
 import de.telran.g10170123ebeshop.repository.interfaces.CustomerRepository;
 import de.telran.g10170123ebeshop.repository.interfaces.ProductRepository;
-import de.telran.g10170123ebeshop.repository.mysql.MySqlCustomerRepository;
 import de.telran.g10170123ebeshop.repository.mysql.MySqlProductRepository;
 import de.telran.g10170123ebeshop.service.common.CommonCustomerService;
 import de.telran.g10170123ebeshop.service.common.CommonProductService;
